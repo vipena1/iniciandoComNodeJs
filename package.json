@@ -1,0 +1,23 @@
+{
+  "name": "iniciandocomnodejs",
+  "version": "1.0.0",
+  "description": "Primeiro projeto NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipena1/iniciandoComNodeJs.git"
+  },
+  "author": "Vinicius Pena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vipena1/iniciandoComNodeJs/issues"
+  },
+  "homepage": "https://github.com/vipena1/iniciandoComNodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
