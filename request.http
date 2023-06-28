@@ -1,0 +1,17 @@
+// POST = Inserir 
+// GET = Buscar
+// PUT = Alterar
+// DELETE = Remover
+
+POST http://localhost:4002/produtos
+content-type: application/json
+
+{
+    "nome": "Caderno capa dura",
+    "preco": 15.6
+}
+
+###
+
+GET  http://localhost:4002/produtos
+
