@@ -30,3 +30,5 @@ const print = _ => {
 print()
 
 console.log(`A string é assim ${num}`) // Para definir uma variavel no meio da string
+
+console.log("Fim da aula 1")
